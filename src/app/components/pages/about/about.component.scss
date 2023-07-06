@@ -1,0 +1,19 @@
+.about{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 2em;
+}
+
+h2, p{
+  margin-bottom: 1em;
+}
+
+.about button{
+  height: 40px;
+  cursor: pointer;
+  color: black;
+  text-transform: uppercase;
+  background: #ffff4d;
+}
